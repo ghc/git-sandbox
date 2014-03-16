@@ -1,0 +1,3 @@
+[submodule "base"]
+	path = lib/base
+	url = ../packages/base.git
